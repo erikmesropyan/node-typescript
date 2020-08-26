@@ -1,6 +1,6 @@
 # Node with TypeScript
 
-#run commands
+# run commands
 
 `npm run watch-node`
 
